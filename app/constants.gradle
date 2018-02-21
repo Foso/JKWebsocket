@@ -1,0 +1,15 @@
+project.ext {
+
+    buildTools = '27.0.3'
+
+    compileSdk = 27
+    targetSdk = 27
+    minSdk = 21
+
+    versionCode = 1
+    appVersion = '1.0.0'
+
+    rxandroid = '2.0.1'
+    rxJava = '2.1.7'
+
+}
