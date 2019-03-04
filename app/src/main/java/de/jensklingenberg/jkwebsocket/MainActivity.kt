@@ -2,12 +2,12 @@ package de.jensklingenberg.jkwebsocket
 
 import android.content.Context
 import android.net.wifi.WifiManager
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.text.format.Formatter
 import android.util.Log
-import java.io.IOException
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
+import java.io.IOException
 
 class MainActivity : AppCompatActivity() {
 

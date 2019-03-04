@@ -9,7 +9,7 @@ project.ext {
     versionCode = 1
     appVersion = '1.0.0'
 
-    rxandroid = '2.0.1'
+    rxandroid = '2.1.0'
     rxJava = '2.1.7'
 
 }
